@@ -18,20 +18,20 @@ global.APIKeys = {
 
 //Owner React
 global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9476342733' //මෙතන number එක.
+global.REACT_NUMBER = '94784749430' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
-global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
-global.group1 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
-global.group2 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
+global.owner = ['94784749430',''] //මෙතන number එක.
+global.premium = ['94784749430','94784749430'] //මෙතන number එක.
+global.botname = '𝖗𝖎𝖉𝖊𝖗𝖇𝖔𝖙1🤖' //මෙතන නම.
+global.ownername = '💗A̳s̳h̳e̳n̳ ̳R̳i̳d̳e̳r̳🇱🇰' //මෙතන නම.
+global.ownername = '💗A̳s̳h̳e̳n̳ ̳R̳i̳d̳e̳r̳🇱🇰' //මෙතන නම.
+global.group1 = 'https://chat.whatsapp.com/K0dkQ79aEYkAUwjqPL6c7Y' //මෙතන grouplink එක.
+global.group2 = 'https://chat.whatsapp.com/Ek5ffQqqSUp8PGIfSsAJkE' //මෙතන grouplink එක.
 global.packname = 'VIHANGA BOT INC' //මෙතන නම.
-global.cap = '*By Vihanga MD*' //මෙතන නම.
-global.img = 'https://telegra.ph/file/88d6fdeff08bbc4945901.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
-global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8' //මෙතන කැමති ලින්ක් එකක්.
+global.cap = 'Made By @𝖗𝖎𝖉𝖊𝖗𝖇𝖔𝖙1🤖 𝖔𝖜𝖓𝖊𝖉 𝖇𝖞 A̳s̳h̳e̳n̳ ̳R̳i̳d̳e̳r̳ ' //මෙතන නම.
+global.img = 'https://i.ibb.co/PDCc5j7/Ashen.png' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
+global.ytchannel = 'https://www.youtube.com/channel/UC2PmyEBQcSb0yJs4JUi4zqA' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
 global.darahawal = '100' //මෙතන මාරු කරන්න එපා.
 global.besiAwal = '15' //මෙතන මාරු කරන්න එපා.
@@ -39,12 +39,12 @@ global.goldAwal = '10' //මෙතන මාරු කරන්න එපා.
 global.emeraldAwal = '5' //මෙතන මාරු කරන්න එපා.
 global.umpanAwal = '5' //මෙතන මාරු කරන්න එපා.
 global.potionAwal = '1' //මෙතන මාරු කරන්න එපා.
-global.dripstyping = false //මෙතන මාරු කරන්න එපා.
+global.dripstyping = true //මෙතන මාරු කරන්න එපා.
 global.dripsreadgroup = false //මෙතන මාරු කරන්න එපා. 
 global.dripsreadall = false //මෙතන මාරු කරන්න එපා.
-global.dripsrecord = false //මෙතන මාරු කරන්න එපා.
-global.available = false //මෙතන මාරු කරන්න එපා.
-global.unavailable = true //මෙතන මාරු කරන්න එපා.
+global.dripsrecord = true //මෙතන මාරු කරන්න එපා.
+global.available = true //මෙතන මාරු කරන්න එපා.
+global.unavailable = false //මෙතන මාරු කරන්න එපා.
 global.limittot = 100, //මෙතන මාරු කරන්න එපා.
 global.f1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation' //මෙතන මාරු කරන්න එපා.
 global.f2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' //මෙතන මාරු කරන්න එපා.
@@ -52,7 +52,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip' //මෙතන මාරු කරන්න එපා.
 global.f5 = 'application/pdf' //මෙතන මාරු කරන්න එපා.
 global.f6 = 'application/vnd.android.package-archive' //මෙතන මාරු කරන්න එපා.
-global.author = 'VIHANGA BOT INC' //මෙතන නම.
+global.author = 'Riderbot' //මෙතන නම.
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=' //මෙතන මාරු කරන්න එපා.
 global.sessionName = 'session' //මෙතන මාරු කරන්න එපා.
 global.prefa = ['','!','.','🐦','🐤','🗿'] //මෙතන මාරු කරන්න එපා.
